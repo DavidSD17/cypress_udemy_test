@@ -1,0 +1,12 @@
+{
+    "baseUrl": "http://kpi1.moesk.sigma-it.local",
+  "env": {
+      "login": "admin",
+    "password": "admin"
+    },
+    "fixturesFolder": false,
+    "pluginsFile": false,
+    "supportFile": false,
+    "viewportWidth": 1290,
+    "viewportHeight": 750
+  }
