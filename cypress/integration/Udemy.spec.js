@@ -32,6 +32,7 @@
                   
 //                     }) 
 
+// Тестовый комментарий для контроля версий!!!!
 it('Get Find Eq',() => {
                  cy.visit('https://docs.cypress.io/api/commands/get#Arguments')
                  cy.get('tbody>tr').eq(2).find('td').eq(2)
