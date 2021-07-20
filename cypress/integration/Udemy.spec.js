@@ -1,8 +1,5 @@
 /// <reference types="cypress" />
-it('Поиск по id',() => {
-cy.visit('http://www.facebook.com')
-cy.get('#email')
-}) 
+https://github.com/DavidSD17/cypress_udemy_test
 
 it('Поиск по class',() => {
     cy.visit('https://docs.cypress.io/api/table-of-contents')

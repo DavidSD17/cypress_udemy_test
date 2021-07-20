@@ -8,5 +8,8 @@
     "pluginsFile": false,
     "supportFile": false,
     "viewportWidth": 1290,
-    "viewportHeight": 750
+    "viewportHeight": 1000,
+    "waitForAnimations": true
+    
+
   }
